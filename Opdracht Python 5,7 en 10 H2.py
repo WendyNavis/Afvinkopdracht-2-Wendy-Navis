@@ -8,8 +8,8 @@ Distance_6_hours = Speed * Hour_6
 Distance_10_hours = Speed * Hour_10
 Distance_15_hours = Speed * Hour_15
 
-print ("Distance after: \n 6 hour: ", Distance_6_hours, "\n 10 hour: "
-       , Distance_10_hours, "\n 15 hour: ", Distance_15_hours)
+print ("Distance after: \n 6 hour: ", Distance_6_hours, "
+       \n 10 hour: " , Distance_10_hours, "\n 15 hour: ", Distance_15_hours)
 
 
 
